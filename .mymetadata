@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PetShow"
+  id="myeclipse.1499183663872"
+  context-root="/PetShow"
+  j2ee-spec="5.0"
+  archive="PetShow.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
